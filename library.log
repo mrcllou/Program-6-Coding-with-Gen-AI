@@ -1,0 +1,7 @@
+[2026-06-03 11:48:03] [INFO    ] Created new catalog file: data/books.csv
+[2026-06-03 11:48:03] [LOAD    ] Loaded 0 books from data/books.csv
+[2026-06-03 11:48:03] [SAVE    ] Saved 8 books → data/books.csv  (backup: data/books_backup_20260603_114803.csv)
+[2026-06-03 11:48:40] [RESEARCH] Appended research result for: Romance
+[2026-06-03 11:48:54] [SAVE    ] Saved 9 books → data/books.csv  (backup: data/books_backup_20260603_114854.csv)
+[2026-06-03 11:53:33] [SAVE    ] Saved 10 books → data/books.csv  (backup: data/books_backup_20260603_115333.csv)
+[2026-06-03 11:54:46] [SAVE    ] Saved 10 books → data/books.csv  (backup: data/books_backup_20260603_115446.csv)
