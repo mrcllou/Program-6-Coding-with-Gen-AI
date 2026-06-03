@@ -12,4 +12,5 @@ I want to use another gen-AI to make fewer pages. </br>
 My prompt is: Let's make a *Library Management Page* in Java that uses OOP, LinkedList, and ArrayList. </br>
 That will add or remove books. Make it connected to a public library. But also, research any books that I want  </br>
 to research online + The price of the books or even a PDF version of it. 
+It should also store the title, author, ISBN, Publisher, Published Date, Description, page count, and rating. 
 
